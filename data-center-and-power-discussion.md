@@ -7,7 +7,6 @@
 * https://opentelemetry.io/
 * https://docs.gprofiler.io/
 * https://github.com/hubblo-org/scaphandre
-* 
 
 ## Node-Level Variables
 
@@ -21,11 +20,8 @@
 ### On-demand 
 
 * Power Driven Scheduling and Scaling with CPU telemetry in K8s: https://github.com/intel/platform-aware-scheduling/tree/master/telemetry-aware-scheduling/docs/power
-* 
 
 ### Batch scheduling according to power costs (carbon, money, et cetera)
-
-
 
 # Current Research/Initiaives
 
