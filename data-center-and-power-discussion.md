@@ -42,8 +42,8 @@ Options in Kubernetes:
 Batch scheduling according to power costs (carbon, money, et cetera)
 
 ### Scaling
-On-demand: Serverless
-VPA[^ocp-vpa]
+* On-demand: Serverless
+* VPA[^ocp-vpa]
 
 ### Tuning
 Options: 
@@ -55,7 +55,7 @@ Options:
 
 ## Current Sustainability Initiatives
 * Equinix[^equinix]
-* Etsy - Cloud carbon footprint.org[^ccf]
+* Etsy and Cloud carbon footprint.org[^ccf]
 * LF Energy[^lfenergy]  
 * Energy Efficient High Performance Computing Working Group[^llnl]
 
