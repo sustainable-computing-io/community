@@ -5,9 +5,9 @@
 <!--- TODO: add a diagram to illustrate data center composition --->
 
 ### Cooling, BMC
-OCP Cooling Telemetry[^ocp-cooling]
-BMC Telemetry[^bmc-exporter]
-(thermal???)
+* OCP Cooling Telemetry[^ocp-cooling]
+* BMC Telemetry[^bmc-exporter]
+* (thermal???)
 ### Software Agent
 
 <!--- TODO: add a diagram to explain the relationship between workload and power sources  --->
@@ -34,23 +34,28 @@ Runtime system power consumption estimate[^wiki-power-estimate]
 ## Energy Efficient Computing
 
 ### Scheduling 
-Options in Kubernetes
+Options in Kubernetes:
 * Power Driven Scheduling and Scaling with CPU telemetry in K8s[^platform-aware-scheduling] 
+* Energy aware scheduling[^ieee-k8s-scheduler]
+* Carbon-aware Kubernetes scheduler[^low-carbon-scheduler]
+
+Batch scheduling according to power costs (carbon, money, et cetera)
 
 ### Scaling
-On-demand: Serverless
-VPA: [^ocp-vpa]
+* On-demand: Serverless
+* VPA[^ocp-vpa]
 
 ### Tuning
-Options: [^ocp-nto]
-
-### Batch scheduling according to power costs (carbon, money, et cetera)
+Options: 
+* Node tuning[^ocp-nto]
+* CPU tuning: x86, arm
+* GPU tuning
 
 # Current Research/Initiaives
 
 ## Current Sustainability Initiatives
 * Equinix[^equinix]
-* Etsy - Cloud carbon footprint.org[^ccf]
+* Etsy and Cloud carbon footprint.org[^ccf]
 * LF Energy[^lfenergy]  
 * Energy Efficient High Performance Computing Working Group[^llnl]
 
@@ -88,3 +93,5 @@ Options: [^ocp-nto]
 [^k8s-power-manager]:https://github.com/intel/kubernetes-power-manager
 [^ocp-nto]: https://docs.openshift.com/container-platform/4.10/scalability_and_performance/using-node-tuning-operator.html
 [^ocp-vpa]: https://github.com/openshift/predictive-vpa-recommenders
+[^ieee-k8s-scheduler]:https://www.researchgate.net/publication/333062266_Improving_Data_Center_Efficiency_Through_Holistic_Scheduling_In_Kubernetes
+[^low-carbon-scheduler]:http://ceur-ws.org/Vol-2382/ICT4S2019_paper_28.pdf
