@@ -2,24 +2,48 @@
 
 ## Telemetry
 
-### Open Telemetry
+<!--- TODO: add a diagram to illustrate data center composition --->
 
-* Open Telemetry[^opentelemetry]
+### Cooling, BMC
+OCP Cooling Telemetry[^ocp-cooling]
+BMC Telemetry[^bmc-exporter]
+(thermal???)
+### Software Agent
+
+<!--- TODO: add a diagram to explain the relationship between workload and power sources  --->
+
+#### Methodology
+Runtime system power consumption estimate[^wiki-power-estimate]
+#### Projects
 * Profiler[^gprofiler]
 * Energy Consumption Metrology Agent[^scaphandre]
+* PowerAPI [^powerapi]
+* Kubernetes Efficient Power Level Exporter [^kepler]
 
-## Node-Level Variables
+#### Open Telemetry
+* Open Telemetry[^opentelemetry]
 
-### Power
+## Compute Node
+
+### Device and Power
+<!--- TODO: add a diagram to illustrate computing devices and power draw --->
+
+### Power Management
 * Kubernetes Power Manager[^k8s-power-manager]
 
-###
+## Energy Efficient Computing
 
-## Scheduling Options in Kubernetes
-
-### On-demand 
-
+### Scheduling 
+Options in Kubernetes
 * Power Driven Scheduling and Scaling with CPU telemetry in K8s[^platform-aware-scheduling] 
+
+### Scaling
+On-demand: Serverless
+VPA: [^ocp-vpa]
+
+### Tuning
+Options: [^ocp-nto]
+
 ### Batch scheduling according to power costs (carbon, money, et cetera)
 
 # Current Research/Initiaives
@@ -44,9 +68,14 @@
 * Energy Efficiency of Languages[^energy-lanaguage]
 
 # References
+[^ocp-cooling]:https://www.opencompute.org/documents/ocp-wp-dcf-improve-data-center-cooling-facility-efficiency-through-platform-power-telemetryr1-0-final-update-pdf
+[^bmc-exporter]: https://github.com/gebn/bmc_exporter
 [^opentelemetry]: https://opentelemetry.io/
+[^wiki-power-estimate]: https://en.wikipedia.org/wiki/Run-time_estimation_of_system_and_sub-system_level_power_consumption
 [^gprofiler]: https://docs.gprofiler.io/
 [^scaphandre]: https://github.com/hubblo-org/scaphandre
+[^powerapi]: https://github.com/powerapi-ng/
+[^kepler]: https://github.com/sustainable-computing-io/kepler
 [^platform-aware-scheduling]: https://github.com/intel/platform-aware-scheduling/tree/master/telemetry-aware-scheduling/docs/power
 [^energy-lanaguage]:https://github.com/greensoftwarelab/Energy-Languages
 [^osti]:https://www.osti.gov/servlets/purl/1140455
@@ -57,3 +86,5 @@
 [^ccf]:https://www.cloudcarbonfootprint.org/docs/methodology/
 [^equinix]:https://www.equinix.com/newsroom/press-releases/2022/04/equinix-prices-1-2-billion-of-green-bonds-in-its-fourth-offering-to-advance-sustainability-initiatives
 [^k8s-power-manager]:https://github.com/intel/kubernetes-power-manager
+[^ocp-nto]: https://docs.openshift.com/container-platform/4.10/scalability_and_performance/using-node-tuning-operator.html
+[^ocp-vpa]: https://github.com/openshift/predictive-vpa-recommenders
