@@ -4,6 +4,9 @@
 
 ### Open Telemetry
 
+* Open Telemetry[^opentelemetry]
+* Profiler[^profiler]
+* Energy Consumption Metrology Agent[^scaphandre]
 
 ## Node-Level Variables
 
