@@ -5,7 +5,7 @@
 ### Open Telemetry
 
 * Open Telemetry[^opentelemetry]
-* Profiler[^profiler]
+* Profiler[^gprofiler]
 * Energy Consumption Metrology Agent[^scaphandre]
 
 ## Node-Level Variables
@@ -45,7 +45,7 @@
 
 # References
 [^opentelemetry]: https://opentelemetry.io/
-[^grofiler]: https://docs.gprofiler.io/
+[^gprofiler]: https://docs.gprofiler.io/
 [^scaphandre]: https://github.com/hubblo-org/scaphandre
 [^platform-aware-scheduling]: https://github.com/intel/platform-aware-scheduling/tree/master/telemetry-aware-scheduling/docs/power
 [^energy-lanaguage]:https://github.com/greensoftwarelab/Energy-Languages
