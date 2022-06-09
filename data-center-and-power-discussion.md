@@ -67,6 +67,7 @@ Options:
 ### HPC Specific models to learn from:
 
 * Metrics for Evaluating Energy Saving Techniques for Resilient HPC Systems [^osti]: 
+* Extensible Power Manager [^geopm]
 
 ## Repos:
 
@@ -95,3 +96,4 @@ Options:
 [^ocp-vpa]: https://github.com/openshift/predictive-vpa-recommenders
 [^ieee-k8s-scheduler]:https://www.researchgate.net/publication/333062266_Improving_Data_Center_Efficiency_Through_Holistic_Scheduling_In_Kubernetes
 [^low-carbon-scheduler]:http://ceur-ws.org/Vol-2382/ICT4S2019_paper_28.pdf
+[^geopm]:https://github.com/geopm/geopm
