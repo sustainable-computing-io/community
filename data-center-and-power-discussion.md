@@ -1,7 +1,7 @@
 # Data Centers
 
 #### Contributors
-Humani Chen, Marlow Weston, Niki Manoledaki
+Huamin Chen, Marlow Weston, Niki Manoledaki
 
 <!-- ## Use Cases -->
 ## Use Cases
