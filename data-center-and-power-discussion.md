@@ -1,5 +1,19 @@
 # Data Centers
 
+#### Contributors
+Humani Chen, Marlow Weston, Niki Manoledaki
+
+<!-- ## Use Cases -->
+## Use Cases
+
+### Intelligently choosing which datacenter to schedule on according to environmental impact, time of day, et cetera
+
+### Within a datacenter, scheduling effectively according to workload, availability, and urgency of workload
+
+### Within a node, optimizing resources to handle workload specifications (which may include performance parameters) while minimizing resource consumption
+
+
+## Current Landscape
 <!-- ## Telemetry -->
 
 <!--- TODO: add a diagram to illustrate data center composition --->
