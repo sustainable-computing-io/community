@@ -5,7 +5,7 @@ Huamin Chen, Marlow Weston, Niki Manoledaki
 
 <!-- ## Use Cases -->
 ## Use Cases
-
+<!--- prevent greenwashing --->
 ### Intelligently choosing which datacenter to schedule on according to environmental impact, time of day, et cetera
 
 ### Within a datacenter, scheduling effectively according to workload, availability, and urgency of workload
