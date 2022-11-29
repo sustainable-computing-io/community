@@ -5,6 +5,43 @@ Kepler Release 0.4 Planning
 
 :::info
 - **Date:** 
+    - Nov. 29, 2022
+- **Agenda**
+1. Update and progress `30min`
+    - VM support and model estimator integration
+         - Offline models are available, power estimate on VM is working. 
+         - e2e test cases are available to verify kepler container and node metrics (Sam: can you add test case to detect new Pods and their metrics? Huamin to add issues. Prometheus client is used in e2e, metrics reading can be added)
+         - Estimator sidecar will be verified and added to e2e test (not in this release)
+         - What is the status of online model training and updating? (manual test first, Pang will share her sidecar and model server manifests)
+    - test coverage
+        - improved from lower 30s to 39%, need more unit test (Huamin to investigate which pkg needs more tests and create issues. Sam: create tests for each pkg. Internal pointer/connector makes test case hard to make, pointer value validation etc needs refactor. Some pkg requires bcc library, making mac user hard to add test cases, maybe conditional build tag? Huamin will create issues for mac/refactor)
+    - Deployment
+        - Operator
+            - [v1alphav1](https://github.com/sustainable-computing-io/kepler-operator/tree/v1alpha1) (Parul will send a demo based on kind. TODO integrating model server. OperatorHub integration will happen later. Sally will help on deploying on OpenShift/MicroShift)
+            - tested kepler-exporter on kind, cluster-prerequisite for openshift WIP
+            - working on integration with estimator and offline models
+            - TO-DO Parul: Document features present in current operator and what will be expected in the next release.
+        - Helm (https://github.com/sustainable-computing-io/kepler-helm-chart)
+            - PR ready, Sam commented/reviewed. Tested on kind (validated exporter and output). Still working on Prometheus and Grafana (may add in the future)
+            - to investigate how to release the chart (maybe use github actions)
+    - Docs
+        - [Simplify end user doc](https://github.com/sustainable-computing-io/kepler/issues/418) (Nikki to make two contributions)
+2. Issues `20min`
+    - [0 process](https://github.com/sustainable-computing-io/kepler/issues/422) (Add logging)
+    - [podEnergyStatLabels needs update](https://github.com/sustainable-computing-io/kepler/issues/408) (already in local repo, doesn't affect model training atm)
+    - [block_device_used logging](https://github.com/sustainable-computing-io/kepler/issues/355) (let's lower the verbosity first)
+3. Questions and Discussions `10min`
+    - Release criteria and date to be finalized
+        - https://github.com/sustainable-computing-io/kepler/issues/333 (Estimator/kepler: configmaps. Pang will share the examples (in the discussion and docs PR))
+    - Should cgroup v1 be supported in cgroup metrics based models? (Let's document this and investigate more next release)
+    - Shared e2e on all repos: 
+        - Kepler(including estimator and model server)
+        - Operator, helm
+
+
+
+:::info
+- **Date:** 
     - Nov. 14, 2022
 - **Agenda**
 1. Issues and progress `40min`
