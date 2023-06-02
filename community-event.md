@@ -1,7 +1,9 @@
 # Kepler Community Meetings
 
 ## Every month on the First Tuesday
+
 Time: Jun 6, 2023 08:00 AM Eastern Time (US and Canada)
+
         Every month on the First Tue, until Dec 5, 2023, 7 occurrence(s)
         Jun 6, 2023 08:00 AM
         Jul 4, 2023 08:00 AM
@@ -10,7 +12,9 @@ Time: Jun 6, 2023 08:00 AM Eastern Time (US and Canada)
         Oct 3, 2023 08:00 AM
         Nov 7, 2023 08:00 AM
         Dec 5, 2023 08:00 AM
+        
 Please download and import the following iCalendar (.ics) files to your calendar system.
+
 Monthly: https://us06web.zoom.us/meeting/tZYsce-prD0qEt0Q2fAk0_giR8XVMyL0wA7N/ics?icsToken=98tyKuGqrz0sG9aTsBGORpwQBY_oM-vzpiFfj7cNrU3jIisDXQT_BLp6BJ9mPIjH
 
 Join Zoom Meeting
@@ -23,7 +27,9 @@ One tap mobile
 +13017158592,,82166126089#,,,,*067117# US (Washington DC)
 
 ## Every Month on the Third Tuesday
+
 Time: Jun 20, 2023 08:00 PM Pacific Time (US and Canada)
+
         Every month on the Third Tue, until Dec 19, 2023, 7 occurrence(s)
         Jun 20, 2023 08:00 PM
         Jul 18, 2023 08:00 PM
@@ -32,7 +38,9 @@ Time: Jun 20, 2023 08:00 PM Pacific Time (US and Canada)
         Oct 17, 2023 08:00 PM
         Nov 21, 2023 08:00 PM
         Dec 19, 2023 08:00 PM
+        
 Please download and import the following iCalendar (.ics) files to your calendar system.
+
 Monthly: https://us06web.zoom.us/meeting/tZApc-CvrzkvHtIAEePNabcNrpB-BbnD8beN/ics?icsToken=98tyKuGsqj8jHdWXtR2BRpwIBo-gXe3zmHpYgrd0vTrgMw5SYADYJPJgf5B9HvyI
 
 Join Zoom Meeting
