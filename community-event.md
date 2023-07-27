@@ -1,5 +1,8 @@
 # Kepler Community Meetings
 
+## Meeting minutes and recordings
+Info can be found in the [Goolge Doc](https://docs.google.com/document/d/1YtflOiC8Eq61MIrX2DW2KT2XcJjBZnvgyKrkjUCr_ZE/edit?usp=sharing)
+
 ## Every month on the First Tuesday
 
 Topic: Kepler Community Meeting (First Tue of the Month)
