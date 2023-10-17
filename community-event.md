@@ -64,8 +64,10 @@ https://zoom.us/j/97274019681?pwd=V2dTUmVqWDJnMWVsdDMyT2xZN1JaZz09
 Meeting ID: 972 7401 9681
 Passcode: 313507
 
-# Topic: Power Efficiency Aware Kubernetes Scheduler (PEAKS) Community Meeting
+# Power Efficiency Aware Kubernetes Scheduler (PEAKS) Community Meeting
+
 Time: Oct 25, 2023 08:00 AM Eastern Time (US and Canada)
+
         Every month on the Fourth Wed, until Apr 24, 2024, 7 occurrence(s)
         Oct 25, 2023 08:00 AM
         Nov 22, 2023 08:00 AM
@@ -74,6 +76,7 @@ Time: Oct 25, 2023 08:00 AM Eastern Time (US and Canada)
         Feb 28, 2024 08:00 AM
         Mar 27, 2024 08:00 AM
         Apr 24, 2024 08:00 AM
+        
 Please download and import the following iCalendar (.ics) files to your calendar system.
 Monthly: https://zoom.us/meeting/tJIkcuuvpzosHdCYCZ8Mba8Bom6r3cD4hAPT/ics?icsToken=98tyKuCupz4oHd2Uth6DRowAHY_4a-3xmH5dgqd-pTzfWw1RY1vUOe8UIOF8NIzY
 
