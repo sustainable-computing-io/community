@@ -1,41 +1,22 @@
 # Kepler Community Meetings
 
-## Meeting minutes and recordings
-Info can be found in the [Google Doc](https://docs.google.com/document/d/1YtflOiC8Eq61MIrX2DW2KT2XcJjBZnvgyKrkjUCr_ZE/edit?usp=sharing)
+## Community Meeting Calendar
 
-## Every month on the First Tuesday
+You can view the Kepler community meeting schedule here: https://zoom-lfx.platform.linuxfoundation.org/meetings/kepler
 
-Topic: Kepler Community Meeting (First Tue of the Month)
-
-Please download and import the following iCalendar (.ics) files to your calendar system.
-
-Monthly: https://zoom.us/meeting/tJIkdumhrDwiGNJ4pYfawa4lnPKaVxmS11Ck/ics?icsToken=98tyKuCupzoqE9aSuBuBRowAHYj4c_PzpmZHjY13yA_cBSFEY1f6ONJpM4RnHeuB
-
-Join Zoom Meeting
-
-https://zoom.us/j/96910927826?pwd=ZwDSNPKCcw0QvB9R0dmBfwnyqXJdTL.1
+To add the meetings to your calendar (Google, Apple, Outlook, etc.), use this iCal link:
 
 ```
-Meeting ID: 969 1092 7826
-Passcode: 839506
+https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtBxZQAV
 ```
 
-## Every Month on the Third Tuesday
+The meeting recording is available directly from the calendar event link.
 
-Topic: Kepler Community Meeting (Third Tue of the Month)
+## Meeting minutes
 
-Please download and import the following iCalendar (.ics) files to your calendar system.
+Agenda and notes can be found in the [Google Doc](https://docs.google.com/document/d/1YtflOiC8Eq61MIrX2DW2KT2XcJjBZnvgyKrkjUCr_ZE/edit?usp=sharing).
 
-Monthly: https://zoom.us/meeting/tJ0pf-mprz4pHNCKQ0azbig8Cx9tRZdWprAe/ics?icsToken=98tyKuChqjMqG9WQsx-DRox5Boqgc-vzmCVego1-ty61AjpRawSuFfobJoBFFO_A
-
-Join Zoom Meeting
-
-https://zoom.us/j/99480115364?pwd=vmQyHL9bKak5d9Vi7R4Nlc4CeMNFyd.1
-
-```
-Meeting ID: 994 8011 5364
-Passcode: 858212
-```
+For offline discussion and questions, please join the [#kepler-project]((https://cloud-native.slack.com/archives/C05QK3KN3HT)) channel on the CNCF Slack.
 
 # Power Efficiency Aware Kubernetes Scheduler (PEAKS) Community Meeting
 
