@@ -108,6 +108,10 @@ or during a community meeting.
 There is no single path to growing within the Kepler community.
 We recognize and value both technical and non-technical contributions.
 
+Our [Contributor Ladder](CONTRIBUTOR_LADDER.md) describes
+contributor roles, responsibilities, and opportunities for
+growth within the community.
+
 ## Keep Your Company Affiliation Up to Date 🏢
 
 The CNCF tracks project health on [Kepler DevStats](https://kepler.devstats.cncf.io/d/5/companies-table?orgId=1) using affiliation data from [cncf/gitdm](https://github.com/cncf/gitdm). Contributors without a `cncf/gitdm` entry count toward no company.
