@@ -33,9 +33,6 @@ non-technical contributions are valuable to the project.
 
 Every contribution matters, regardless of its size.
 
-
-## Before You Start 🤔
-
 ## Community Engagement 🤝
 
 We encourage everyone interested in Kepler to actively participate
@@ -56,6 +53,7 @@ for information about community meetings, resources, and activities.
 You do not need to contribute code to be an active participant
 in the Kepler community.
 
+## Before You Start 🤔
 
 - Search the repository's issues to avoid duplicates.
 - For new features or design changes, open an issue first, then submit a PR.
