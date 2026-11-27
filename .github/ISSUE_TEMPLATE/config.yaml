@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "🐛 Technical Bugs and Feature Requests"
+    url: https://github.com/sustainable-computing-io/kepler/issues/new/choose
+    about: For technical contributions and issues, visit the main Kepler repository.
+
