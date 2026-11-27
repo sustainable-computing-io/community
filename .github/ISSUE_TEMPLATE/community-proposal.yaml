@@ -1,0 +1,38 @@
+name: "🤝 Community Proposal"
+description: Propose an initiative or improvement for the Kepler community
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe your proposed community initiative or improvement.
+      placeholder: >
+        Contributor experience, mentorship, community events,
+        educational resources, documentation, or other initiatives.
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: How would this benefit the Kepler community?
+    validations:
+      required: true
+
+  - type: textarea
+    id: next-steps
+    attributes:
+      label: Proposed Next Steps
+      description: What actions could help move this proposal forward?
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Include any relevant links, resources, or discussions.
+    validations:
+      required: false
+
