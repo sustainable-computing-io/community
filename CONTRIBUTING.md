@@ -46,6 +46,8 @@ You can get involved by:
 - Sharing your use cases, experiences, and feedback.
 - Proposing topics for community meetings.
 - Collaborating with other contributors on ongoing initiatives.
+- Proposing community initiatives and improvements through the
+  [community proposal issue template](https://github.com/sustainable-computing-io/community/issues/new/choose).
 
 Visit the [community repository](https://github.com/sustainable-computing-io/community)
 for information about community meetings, resources, and activities.
