@@ -10,6 +10,7 @@ Community resources and shared guidelines for all repositories in the [sustainab
 - [Contributor Ladder](CONTRIBUTOR_LADDER.md): Learn about
   contributor roles, responsibilities, and opportunities for
   growth within the Kepler community.
+- [Kepler Adopters](ADOPTERS.md) – Discover organizations using Kepler and learn how to add your organization.
 
 ## Code of Conduct
 
