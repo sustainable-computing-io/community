@@ -7,6 +7,9 @@ Community resources and shared guidelines for all repositories in the [sustainab
 - **Meetings:** see [community-event.md](community-event.md) for the calendar, iCal link, and meeting notes. Everyone is welcome!
 - **Slack:** join [#kepler-project](https://cloud-native.slack.com/archives/C05QK3KN3HT) on the [CNCF Slack](https://slack.cncf.io).
 - **Contributing:** see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines shared across all repositories in this GitHub organization.
+- [Contributor Ladder](CONTRIBUTOR_LADDER.md): Learn about
+  contributor roles, responsibilities, and opportunities for
+  growth within the Kepler community.
 
 ## Code of Conduct
 
